@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="please_wait">Please_wait&#8230;</string>
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">miles/hour</string>
+    <string name="geo_stack">Geography Stack</string>
+    <string name="area">Area</string>
+    <string name="sea">Sea</string>
+    <string name="grnd">Ground</string>
+    <string name="the_predictions_in_this_app_come_from_openweathermap_web_and_are_accurate_therefore_you_may_trust_them_wholeheartedly">The predictions in this app come from "openweathermap.org" and are accurate, therefore you may trust them wholeheartedly.</string>
+    <string name="openweathermap"><a href="https://openweathermap.org/">openweathermap.org</a></string>
+    <string name="percent">percent</string>
+    <string name="base">base</string>
+    <string name="pressure">psf</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
