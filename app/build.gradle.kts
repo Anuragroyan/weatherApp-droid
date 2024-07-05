@@ -36,7 +36,7 @@ android {
 }
 
 dependencies {
-
+    implementation("androidx.cardview:cardview:1.0.0")
     implementation("com.google.android.material:material:1.12.0")
     implementation(libs.play.services.location)
     implementation("com.karumi:dexter:6.2.3")
